@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
